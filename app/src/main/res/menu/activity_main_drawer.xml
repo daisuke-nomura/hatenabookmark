@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_general"
+            android:icon="@drawable/ic_brightness_1_black_24dp"
+            android:checked="true"
+            android:title="@string/menu_general"/>
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="@string/menu_social"/>
+        <item
+            android:id="@+id/nav_economics"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="@string/menu_economics"/>
+        <item
+            android:id="@+id/nav_life"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_life"/>
+        <item
+            android:id="@+id/nav_knowledge"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="@string/menu_knowledge"/>
+        <item
+            android:id="@+id/nav_it"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="@string/menu_it"/>
+        <item
+            android:id="@+id/nav_entertainment"
+            android:icon="@drawable/ic_headset_mic_black_24dp"
+            android:title="@string/menu_entertainment"/>
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@drawable/ic_videogame_asset_black_24dp"
+            android:title="@string/menu_game"/>
+        <item
+            android:id="@+id/nav_fun"
+            android:icon="@drawable/ic_sentiment_very_satisfied_black_24dp"
+            android:title="@string/menu_fun"/>
+    </group>
+
+    <!--<item android:title="@string/menu_other">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_video"-->
+                <!--android:icon="@drawable/ic_ondemand_video_black_24dp"-->
+                <!--android:title="@string/menu_video" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+    <!--<item android:title="@string/menu_menu">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_setting"-->
+                <!--android:icon="@drawable/ic_settings_black_24dp"-->
+                <!--android:title="@string/menu_setting" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

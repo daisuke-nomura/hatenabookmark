@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">はてなブックマーク</string>
+    <string name="no_data">データがありません</string>
+    <string name="error_happened">エラーが発生しました\nタップしてリロード</string>
+
+    <string name="navigation_drawer_open">ドロワーを開く</string>
+    <string name="navigation_drawer_close">ドロワーを閉じる</string>
+
+    <string name="tab1">人気エントリー</string>
+    <string name="tab2">新着エントリー</string>
+
+    <string name="menu_general">ホーム</string>
+    <string name="menu_social">世の中</string>
+    <string name="menu_economics">政治と経済</string>
+    <string name="menu_life">暮らし</string>
+    <string name="menu_knowledge">学び</string>
+    <string name="menu_it">テクノロジー</string>
+    <string name="menu_entertainment">エンタメ</string>
+    <string name="menu_game">アニメとゲーム</string>
+    <string name="menu_fun">おもしろ</string>
+    <!--<string name="menu_other">その他</string>-->
+    <!--<string name="menu_video">ビデオ</string>-->
+    <!--<string name="menu_menu">メニュー</string>-->
+    <!--<string name="menu_setting">設定</string>-->
+</resources>
